@@ -1,2 +1,2 @@
 # EasyFiles-Java-File-Library
-EasyFiles makes working with files very simple and easy to use. EasyFiles makes code more clean and readable as well, and takes less time to deploy projects.
+EasyFiles is a library that makes working with files more simple. Simply import the class into your program, and get to work right away. It's so simple, anyone could use it. 
